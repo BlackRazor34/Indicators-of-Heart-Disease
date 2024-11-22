@@ -91,5 +91,4 @@ Bu proje, 2022 yılına ait kapsamlı bir sağlık veri setini kullanarak kalp h
 - [Kaggle Notebook](https://www.kaggle.com/code/emreenginn/indicators-of-heart-disease)
 - [GitHub Repository](link)
 
-## 📌 Lisans
-Bu proje [lisans adı] altında lisanslanmıştır.
+
