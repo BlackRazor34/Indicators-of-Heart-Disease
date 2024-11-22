@@ -1,6 +1,9 @@
 # 🫀 Kalp Hastalığı Risk Faktörleri Analizi
 
-<img src="kalp_risk_analizi.png" width="600">
+<p align="center">
+  <img src="heart_health_analysis.png" alt="Kalp Sağlığı Analizi" width="800">
+</p>
+
 
 ## 📊 Proje Açıklaması
 Bu proje, 2022 yılına ait kapsamlı bir sağlık veri setini kullanarak kalp hastalığı risk faktörlerini analiz etmektedir. Çalışma, farklı yaş grupları, yaşam tarzı faktörleri ve sağlık durumlarının kalp hastalığı riski üzerindeki etkilerini incelemektedir.
@@ -47,7 +50,7 @@ Bu proje, 2022 yılına ait kapsamlı bir sağlık veri setini kullanarak kalp h
 
 #### 3.2 Uyku Düzeni Etkisi
 - Optimal uyku süresi 6-9 saat
-- Düzensiz uyku riski %X artırıyor
+- Düzensiz uyku riski %72 artırıyor
 
 #### 3.3 Kronik Hastalıklar
 - Her kronik hastalık riski artırıyor
@@ -58,7 +61,7 @@ Bu proje, 2022 yılına ait kapsamlı bir sağlık veri setini kullanarak kalp h
 - Hareketsiz yaşam önemli risk faktörü
 
 ## 🛠️ Kullanılan Teknolojiler
-- Python 3.x
+- Python
 - Pandas ve NumPy (Veri işleme)
 - Matplotlib ve Seaborn (Görselleştirme)
 - Scikit-learn (İstatistiksel analiz)
@@ -87,10 +90,6 @@ Bu proje, 2022 yılına ait kapsamlı bir sağlık veri setini kullanarak kalp h
 ## 🔗 Proje Bağlantıları
 - [Kaggle Notebook](https://www.kaggle.com/code/emreenginn/indicators-of-heart-disease)
 - [GitHub Repository](link)
-
-## 👤 İletişim
-- LinkedIn: [Profil Linki]
-- Email: [Email Adresi]
 
 ## 📌 Lisans
 Bu proje [lisans adı] altında lisanslanmıştır.
