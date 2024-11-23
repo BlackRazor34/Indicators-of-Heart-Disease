@@ -8,7 +8,7 @@ CDC'ye göre, kalp hastalığı ABD'deki çoğu ırktan insan için (Afrikalı A
 
 Bu projede örnek iş tanım ve hedeflerinin belirlenmesi yanında, kalp krizi riskinin değişkenlere göre araştırılması ve analiz edilmesi üzerine çalıştım.
 
-##  Örnek Problem Tanımı ve İş Hedefi¶
+##  Örnek Problem Tanımı ve İş Hedefi
 
 Sağlık sektöründe faaliyet gösteren şirketimiz için, Kalp hastalığı riskini erken aşamada tespit edip, önleyici sağlık hizmetlerini optimize etmek.
 
