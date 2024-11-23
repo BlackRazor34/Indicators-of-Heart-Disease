@@ -1,8 +1,6 @@
 # 🫀 Kalp Hastalığı Risk Faktörleri Analizi
 
-<p align="center">
-  <img src="kalpgorsel4.png" alt="Kalp Sağlığı Analizi" width="800">
-</p>
+
 
 
 ## 📊 Proje Açıklaması
