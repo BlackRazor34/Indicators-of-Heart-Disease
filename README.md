@@ -6,7 +6,9 @@
 
 
 ## 📊 Proje Açıklaması
-Bu proje, 2022 yılına ait kapsamlı bir sağlık veri setini kullanarak kalp hastalığı risk faktörlerini analiz etmektedir. Çalışma, farklı yaş grupları, yaşam tarzı faktörleri ve sağlık durumlarının kalp hastalığı riski üzerindeki etkilerini incelemektedir.
+CDC'ye göre, kalp hastalığı ABD'deki çoğu ırktan insan için (Afrikalı Amerikalılar, Amerikan Yerlileri ve Alaska Yerlileri ve beyazlar) önde gelen bir ölüm nedenidir. Tüm Amerikalıların yaklaşık yarısı (%47) kalp hastalığı için 3 ana risk faktöründen en az 1'ine sahiptir: yüksek tansiyon, yüksek kolesterol ve sigara. Diğer önemli göstergeler arasında diyabet durumu, obezite (yüksek BMI), yeterli fiziksel aktivite yapmama veya çok fazla alkol alma yer almaktadır. Kalp hastalığı üzerinde en büyük etkiye sahip olan faktörlerin belirlenmesi ve önlenmesi sağlık hizmetlerinde çok önemlidir. Buna karşılık, bilgi işlem alanındaki gelişmeler, bir hastanın durumunu tahmin edebilecek verilerdeki "kalıpları" tespit etmek için makine öğrenimi ve sınıflandırma yöntemlerinin uygulanmasına izin vermektedir.
+
+Bu projede örnek iş tanım ve hedeflerinin belirlenmesi yanında, kalp krizi riskinin değişkenlere göre araştırılması ve analiz edilmesi üzerine çalıştım.
 
 ##  Örnek Problem Tanımı ve İş Hedefi¶
 
