@@ -1,7 +1,7 @@
 # 🫀 Kalp Hastalığı Risk Faktörleri Analizi
 
 <p align="center">
-  <img src="A soft representation of heart attack risk.png" alt="Kalp Sağlığı Analizi" width="800">
+  <img src="kalp2.png" alt="Kalp Sağlığı Analizi" width="800">
 </p>
 
 
