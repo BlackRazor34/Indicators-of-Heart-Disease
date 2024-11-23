@@ -8,6 +8,17 @@
 ## 📊 Proje Açıklaması
 Bu proje, 2022 yılına ait kapsamlı bir sağlık veri setini kullanarak kalp hastalığı risk faktörlerini analiz etmektedir. Çalışma, farklı yaş grupları, yaşam tarzı faktörleri ve sağlık durumlarının kalp hastalığı riski üzerindeki etkilerini incelemektedir.
 
+##  Örnek Problem Tanımı ve İş Hedefi¶
+
+Sağlık sektöründe faaliyet gösteren şirketimiz için, Kalp hastalığı riskini erken aşamada tespit edip, önleyici sağlık hizmetlerini optimize etmek.
+
+Bu model şu amaçlarla kullanılabilir:
+
+Hastaneler ve kliniklerde risk değerlendirmesi
+Sigorta şirketleri için risk skorlaması
+Preventif tıp uygulamaları için erken uyarı sistemi
+Telesağlık uygulamalarında ön değerlendirme aracı
+
 ## 🔍 Veri Seti Detayları
 - **Kaynak**: Kaggle - Personal Key Indicators of Heart Disease
 - **Boyut**: 240,000+ kayıt
@@ -20,9 +31,11 @@ Bu proje, 2022 yılına ait kapsamlı bir sağlık veri setini kullanarak kalp h
 ## 📈 Analiz Aşamaları
 
 ### 1. Veri Ön İşleme
+- Veri setinin hazırlanması
+- NaN değerler oluşturulması
 - Eksik değerlerin tespiti ve temizlenmesi
-- Kategorik değişkenlerin düzenlenmesi
-- Veri kalitesi kontrolü
+- Kategorik değişkenlerin berlilenmesi ve düzenlenmesi
+- İstatistiksel analizler
 
 ### 2. Feature Engineering
 #### BMI Risk Kategorileri:
@@ -62,15 +75,17 @@ Bu proje, 2022 yılına ait kapsamlı bir sağlık veri setini kullanarak kalp h
 
 ## 🛠️ Kullanılan Teknolojiler
 - Python
-- Pandas ve NumPy (Veri işleme)
-- Matplotlib ve Seaborn (Görselleştirme)
-- Scikit-learn (İstatistiksel analiz)
+- Pandas
+- NumPy 
+- Matplotlib
+- Seaborn 
 
 ## 📊 Görselleştirmeler
 1. Risk Faktörleri Dağılımı
 2. BMI Kategorileri Analizi
 3. Yaş ve Risk İlişkisi
 4. Kronik Hastalık Etkisi
+5. Sigara Kullanımına Bağlı Risk Analizi
 
 ## 💡 Sonuçlar ve Öneriler
 
